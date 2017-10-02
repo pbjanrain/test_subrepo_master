@@ -2,3 +2,5 @@
 testing git subrepo
 
 First edit to sub1
+
+First branch - sub1
